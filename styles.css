@@ -1,0 +1,38 @@
+h1 {
+    color: brown;
+}
+body{
+    border-style: dotted;
+    border-color:red;
+    background-image: url(./images/index.png);
+    background-repeat: no-repeat;
+    background-position:bottom;
+    /*background-attachment:scroll;*/
+
+
+}
+#para1{
+    border-style: groove;
+    border-color: black;
+    border-radius:34px ;
+    border-top-style: dashed;
+    border-bottom-style: dotted;
+    border-left-style: solid;
+    border-right-style:groove ;
+    color:rgb(72, 0, 255);
+    background-color: pink;
+}
+#para2{
+    border-style:dashed;
+    border-color: blueviolet;
+    color:blue
+}
+#tab2{
+    border-style: groove;
+}
+.one{
+    font-style: italic;
+    font-size: 45px;
+    color: gold;
+    background-color: black;
+}
