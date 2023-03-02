@@ -1,24 +1,19 @@
 h1{
-    color:rgba(7, 15, 108, 0.463)
-}
-
-
-#para1{
     color:black
-    
 }
-#para2{
-    color: black
-}
+
+
+
 body{
-    background-color: powderblue;
+    margin: auto;
     border-radius: 234px;
     border-style: groove;
     border-color: black;
     text-align: center;
+    color: beige;
+    background-color: darkgray
     
 }
-.para3{
-    color: black;
-
+.para1{
+    background-color:black
 }
