@@ -1,0 +1,24 @@
+h1{
+    color:rgba(7, 15, 108, 0.463)
+}
+
+
+#para1{
+    color:black
+    
+}
+#para2{
+    color: black
+}
+body{
+    background-color: powderblue;
+    border-radius: 234px;
+    border-style: groove;
+    border-color: black;
+    text-align: center;
+    
+}
+.para3{
+    color: black;
+
+}

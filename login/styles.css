@@ -1,0 +1,10 @@
+
+.top-div{
+    border: 2px solid black;
+    text-align:center;
+    padding: 20px;
+    width: 300px; 
+    font-size: 50px;
+    background-color: azure;
+    margin: auto;
+}
