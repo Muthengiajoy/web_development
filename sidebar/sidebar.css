@@ -1,0 +1,39 @@
+.sidebar{
+    background-color: darkgrey;
+    color: black;
+    width:250px;
+    height: 100%;
+    position: fixed;
+    padding-top: 30px;
+    top: 0;
+    bottom: 0;
+
+
+}
+ul{
+    list-style: circle;
+    margin: 5px;
+    padding: 13px;
+}
+li{
+    padding:10px 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    font: 200px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    background-color: whitesmoke;
+    color:peru
+}
+.rounded-image{
+    width: 234px;
+    height: 199px;
+    border-radius: 234px;
+    border-color: black;
+    overflow-y: none;
+}
