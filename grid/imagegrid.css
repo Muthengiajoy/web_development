@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+}
+.image-grid{
+    --gap:16px;
+    --nums-cols:3;
+    --row-height:300px;
+    box-sizing:border-box;
+    padding:var(--gap);
+    display:grid;
+    grid-template-columns: repeat(var(--nums-cols),1fr);
+    
+}
