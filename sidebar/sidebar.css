@@ -1,7 +1,7 @@
 .sidebar{
     background-color:darkgray;
     color:white;
-    width: 200px;
+    width: 250px;
     height: 100%;
     position: fixed;
     padding-top: 30px;
@@ -41,22 +41,23 @@ a{
 .my_name{
     font-size: 20px;
     color: black;
-    margin: 22px;
 
 
 }
 .main content{
-    margin-left: 350px;
+    margin-left: 300px;
     border: groove 1px black;
+    padding-left: 50px;
+
 }
 .introduction{
     font-size: 20px;
-    margin-left: 340px;
+    margin-left: 300px;
 
 }
 .introduction-text{
     font-size: 20px;
-
+    
 }
 .sidebar a{
     color:peru ;
@@ -122,6 +123,28 @@ body{
     margin:300px;
     font-size: 40px;
 
+}
+.work{
+    font-size:20px;
+    margin-left:150px;
+    padding: 45px;
+    
+}
+.images{
+    width:250px;
+    padding-top: 45px;
+}
+.pics{
+    width:250px;
+    padding-top: 45px;
+}
+.pic{
+    width:300px;
+    padding-top:45px;
+}
+.robot{
+    width:300px;
+    padding-top: 45px;
 }
 
 
